@@ -1,0 +1,42 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sparklesoup:sportle"
+    },
+    "1": {
+      "item": "sparklesoup:sportle"
+    },
+    "2": {
+      "item": "sparklesoup:sportle"
+    },
+    "3": {
+      "item": "sparklesoup:sportle"
+    },
+    "4": {
+      "item": "sparklesoup:sportle"
+    },
+    "5": {
+      "item": "sparklesoup:sportle"
+    },
+    "6": {
+      "item": "sparklesoup:sportle"
+    },
+    "7": {
+      "item": "sparklesoup:sportle"
+    },
+    "8": {
+      "item": "sparklesoup:sportle"
+    }
+  },
+  "result": {
+    "item": "sparklesoup:sportle_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:campfire_cooking",
+  "experience": 255,
+  "cookingtime": 10000,
+  "ingredient": {
+    "item": "sparklesoup:super_sparkle_soup_item"
+  },
+  "result": {
+    "item": "sparklesoup:super_duper_sparkle_soup"
+  }
+}

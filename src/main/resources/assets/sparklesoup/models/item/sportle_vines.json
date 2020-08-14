@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sparklesoup:blocks/sportle_vines-item"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "stone_soup",
+    "customModelName": "Normal",
+    "name": "Stone Soup",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SparkleSoup"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 0.30000000000000004,
+    "eatingSpeed": 1000,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

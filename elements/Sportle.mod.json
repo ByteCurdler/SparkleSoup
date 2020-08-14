@@ -1,0 +1,52 @@
+{
+  "_fv": 8,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "sportle-item",
+    "customModelName": "sportle:default",
+    "plantType": "normal",
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "name": "Sportle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SparkleSoup"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.5,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "isReplaceable": false,
+    "colorOnMap": "DIAMOND",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DAMAGE_FIRE",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 4,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "onDestroyedByPlayer": {
+      "name": "SportleMobCollidesWith"
+    },
+    "onEntityCollides": {
+      "name": "SportleMobCollidesWith"
+    },
+    "onRightClicked": {
+      "name": "SportlePlantRightClicked"
+    }
+  }
+}

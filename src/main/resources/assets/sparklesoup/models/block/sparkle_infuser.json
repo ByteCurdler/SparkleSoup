@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sparklesoup:blocks/sides",
+    "up": "sparklesoup:blocks/sides",
+    "north": "sparklesoup:blocks/front",
+    "east": "sparklesoup:blocks/sides",
+    "south": "sparklesoup:blocks/sides",
+    "west": "sparklesoup:blocks/sides",
+    "particle": "sparklesoup:blocks/sides"
+  }
+}

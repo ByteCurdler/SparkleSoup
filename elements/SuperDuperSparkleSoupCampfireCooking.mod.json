@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 255.0,
+    "cookingTime": 10000,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:SuperSparkleSoupItem"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:SuperDuperSparkleSoup"
+    },
+    "name": "super_duper_sparkle_soup_campfire_cooking",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 8,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"61\" y=\"59\"><field name=\"trigger\">No additional trigger</field><next><block type=\"entity_add_potion\"><field name=\"potion\">CUSTOM:SparkleFlight</field><comment pinned=\"false\" h=\"80\" w=\"160\">SparkleFlight for 2m</comment><value name=\"level\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"duration\"><block type=\"math_dual_ops\"><field name=\"OP\">MULTIPLY</field><comment pinned=\"false\" h=\"80\" w=\"160\">120 seconds times 20 ticks/second</comment><value name=\"A\"><block type=\"math_number\"><field name=\"NUM\">120</field></block></value><value name=\"B\"><block type=\"math_number\"><field name=\"NUM\">20</field></block></value></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></next></block></xml>"
+  }
+}

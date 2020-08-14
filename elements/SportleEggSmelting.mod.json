@@ -1,0 +1,20 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 10.0,
+    "cookingTime": 2000,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SportleEgg"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Sportle"
+    },
+    "name": "sportle_egg_smelting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "sparkle_soup",
+    "customModelName": "Normal",
+    "name": "Sparkle Soup",
+    "specialInfo": [
+      "When eaten, allows player to fly for 30 seconds"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SparkleSoup"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 6.0,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "SparkleSoupItemEaten"
+    }
+  }
+}

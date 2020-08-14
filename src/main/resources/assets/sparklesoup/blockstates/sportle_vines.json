@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=1": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=2": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=3": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=4": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=5": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=6": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=7": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=8": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=9": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=10": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=11": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=12": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=13": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=14": {
+      "model": "sparklesoup:block/sportle_vines"
+    },
+    "age=15": {
+      "model": "sparklesoup:block/sportle_vines"
+    }
+  }
+}

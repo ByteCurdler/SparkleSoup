@@ -1,0 +1,8 @@
+{
+  "parent": "sparklesoup:custom/sportle_vines",
+  "textures": {
+    "all": "sparklesoup:blocks/sportle_vines-item",
+    "particle": "sparklesoup:blocks/sportle_vines-item",
+    "0": "sparklesoup:blocks/sportle_vines"
+  }
+}

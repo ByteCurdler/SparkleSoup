@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sparklesoup:block/sparkle_infuser"
+    },
+    "facing=east": {
+      "model": "sparklesoup:block/sparkle_infuser",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sparklesoup:block/sparkle_infuser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sparklesoup:block/sparkle_infuser",
+      "y": 270
+    }
+  }
+}

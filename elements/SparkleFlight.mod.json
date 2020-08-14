@@ -1,0 +1,28 @@
+{
+  "_fv": 8,
+  "_type": "potion",
+  "definition": {
+    "name": "Sparkle Flight",
+    "effectName": "Sparkle Flight",
+    "icon": "sparkle_flight.png",
+    "color": {
+      "value": -13395457,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "SparkleFlightPotionStarted"
+    },
+    "onActiveTick": {
+      "name": "SparkleFlightPotionTick"
+    },
+    "onExpired": {
+      "name": "SparkleFlightPotionExpires"
+    }
+  }
+}

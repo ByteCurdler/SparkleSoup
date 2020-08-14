@@ -1,0 +1,12 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 10000,
+  "ingredient": {
+    "item": "sparklesoup:sparkle_soup_item"
+  },
+  "result": {
+    "item": "sparklesoup:super_sparkle_soup_item"
+  }
+}

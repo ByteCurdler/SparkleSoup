@@ -1,0 +1,42 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sparklesoup:sportle"
+    },
+    "1": {
+      "item": "sparklesoup:sportle"
+    },
+    "2": {
+      "item": "sparklesoup:sportle"
+    },
+    "3": {
+      "tag": "forge:stone"
+    },
+    "4": {
+      "item": "sparklesoup:stone_soup"
+    },
+    "5": {
+      "item": "minecraft:furnace"
+    },
+    "6": {
+      "tag": "forge:stone"
+    },
+    "7": {
+      "tag": "forge:stone"
+    },
+    "8": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "sparklesoup:sparkle_infuser",
+    "count": 2
+  }
+}

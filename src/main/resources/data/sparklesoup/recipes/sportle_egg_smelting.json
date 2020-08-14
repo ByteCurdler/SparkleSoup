@@ -1,0 +1,12 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 2000,
+  "ingredient": {
+    "item": "sparklesoup:sportle_egg"
+  },
+  "result": {
+    "item": "sparklesoup:sportle"
+  }
+}

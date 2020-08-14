@@ -1,0 +1,16 @@
+{
+  "group": "sparklesoup",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "sparklesoup:stone_soup",
+    "count": 1
+  }
+}

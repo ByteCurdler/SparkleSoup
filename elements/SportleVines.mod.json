@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "sportle_vines-item",
+    "customModelName": "sportle_vines:default",
+    "plantType": "growapable",
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 14,
+    "name": "Sportle Vines",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SparkleSoup"
+    },
+    "hardness": 0.1,
+    "resistance": 0.0,
+    "luminance": 0.5,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GROUND"
+    },
+    "customDrop": {
+      "value": "CUSTOM:Sportle"
+    },
+    "dropAmount": 2,
+    "forceTicking": false,
+    "isReplaceable": false,
+    "colorOnMap": "EMERALD",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 10,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "onRightClicked": {
+      "name": "SportleVinesPlantRightClicked"
+    }
+  }
+}
